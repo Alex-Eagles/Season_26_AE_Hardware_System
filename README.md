@@ -89,7 +89,7 @@ graph LR
     click BULK "https://www.lcsc.com/product-detail/C127917.html?s_z=n_35PX470MEFC10X12.5" "Rubycon 35PX470MEFC10X12.5 Datasheet"
     click BUCK12 "https://www.lcsc.com/product-detail/C3200405.html?s_z=n_buck%20convertor" "TI TPS62933DRLR Datasheet"
     click BUCK5 "https://www.lcsc.com/product-detail/C880753.html" "AMS1117-5.0 Datasheet"
-    click BUCK555 "[https://www.lcsc.com/product-detail/C880753.html](https://www.digikey.com/en/products/detail/texas-instruments/UA7810CKTTR/1204569)" "UA7810CKTTR"
+    click BUCK555 "https://www.digikey.com/en/products/detail/texas-instruments/UA7810CKTTR/1204569" "UA7810CKTTR"
     click LDO33 "https://www.lcsc.com/product-detail/C485517.html?s_z=n_%2520TI%2520TLV75733" "TI TLV75733PDBVR Datasheet"
     click LDO333 "https://www.lcsc.com/product-detail/C485517.html?s_z=n_%2520TI%2520TLV75733" "TI TLV75733PDBVR Datasheet"
     click MOOK "https://mauch-electronic.com/products/016-pl-2-6s-bec-2x5-35v-with-cfk-enclosure" "Mauch Datasheet"
