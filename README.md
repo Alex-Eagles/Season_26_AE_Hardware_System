@@ -68,13 +68,13 @@ graph LR
 
         BUS_HV --> BUCK9
         BUCK9 --> BUCK5
-        BUCK5 -->|"Cascade (Eff. Improvement)"| LDO333
+        BUCK9 -->|"Cascade (Eff. Improvement)"| LDO333
         LDO333 --> MCUESS
         LDO33 --> MCUST
         LDO333 --> MCUES 
         BUCK5 --> COMP
         BUCK5 --> TEL
-        BUCK5 -->|"Cascade (Eff. Improvement)"| LDO33
+        BUCK9 -->|"Cascade (Eff. Improvement)"| LDO33
         BUCK5--> FC
         FC --> GPS
         FC --> LIDAR
