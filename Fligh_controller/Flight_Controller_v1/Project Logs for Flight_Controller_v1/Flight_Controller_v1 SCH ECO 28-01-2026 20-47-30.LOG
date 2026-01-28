@@ -1,0 +1,5 @@
+Replace Part C? 10µF in D:\Seasonprep_repo\Season_26_AE_Hardware_System\Fligh_controller\Flight_Controller_v1\Flight_Controller_v1.SchDoc with 10µF from Integrated_Library1.IntLib
+Replace Part J? XT30PW-M in D:\Seasonprep_repo\Season_26_AE_Hardware_System\Fligh_controller\Flight_Controller_v1\Flight_Controller_v1.SchDoc with XT30PW-M from Connectors.IntLib
+Replace Part J? TF-CARD H1.8 SY in D:\Seasonprep_repo\Season_26_AE_Hardware_System\Fligh_controller\Flight_Controller_v1\Flight_Controller_v1.SchDoc with TF-CARD H1.8 SY from Connectors.IntLib
+Replace Part J? USB_C in D:\Seasonprep_repo\Season_26_AE_Hardware_System\Fligh_controller\Flight_Controller_v1\Flight_Controller_v1.SchDoc with USB_C from Connectors.IntLib
+Replace Part U? STM32H753VIT6 in D:\Seasonprep_repo\Season_26_AE_Hardware_System\Fligh_controller\Flight_Controller_v1\Flight_Controller_v1.SchDoc with STM32H753VIT6 from ICs.IntLib
