@@ -52,7 +52,7 @@ graph LR
     %% --- LOGIC REGULATION ---
     subgraph LOGIC_STAGE [Digital Logic Power]
         BUCK5["<b>5V Linear Regulator</b><br/>Part: <b>AMS1117-5.0</b><br/>Vin: 18V | Vout: 5V<br/>Imax: 1A"]:::reg5
-        BUCK9["<b>9V Buck Converter</b><br/>Part: <b>AOS AOZ1282CI</b><br/>Vin: 4.5-36V | Vout: 9V<br/>Imax: 1.2A"]:::reg5
+        BUCK9["<b>7V Buck Converter</b><br/>Part: <b>AOS AOZ1282CI</b><br/>Vin: 4.5-36V | Vout: 7V<br/>Imax: 1.2A"]:::reg5
         LDO33["<b>Load: 3.3V LDO</b><br/>Part: <b>TI TLV75733</b><br/>Vin: 5V | Vout: 3.3V<br/>Imax: 1A (Low Noise)"]:::reg5
         LDO333["<b>Load: 3.3V LDO</b><br/>Part: <b>TI TLV75733</b><br/>Vin: 5V | Vout: 3.3V<br/>Imax: 1A (Low Noise)"]:::reg5
 
@@ -67,12 +67,11 @@ graph LR
         MCUESS["<b>Load: 3.3V MCU</b><br/>(Sensors)"]:::load
 
         BUS_HV --> BUCK9
-        BUCK9 --> BUCK5
+        BUCK9 -->|"Cascade (Eff. Improvement)"| BUCK5
         BUCK9 -->|"Cascade (Eff. Improvement)"| LDO333
         LDO333 --> MCUESS
         LDO33 --> MCUST
         LDO333 --> MCUES 
-        BUCK5 --> COMP
         BUCK5 --> TEL
         BUCK9 -->|"Cascade (Eff. Improvement)"| LDO33
         BUCK5--> FC
