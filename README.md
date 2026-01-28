@@ -58,7 +58,6 @@ graph LR
 
         FC["<b>Load: 5V Peripherals</b><br/>(Flight Controller)"]:::load
         GPS["<b>Load: 5V Peripherals</b><br/>(GPS)"]:::load
-        COMP["<b>Load: 5V Peripherals</b><br/>(NVIDIA Jetson Nano Developer Kit)"]:::load
         LIDAR["<b>Load: 5V Peripherals</b><br/>(SF45/B  Lidar Sensor)"]:::load
         TEL["<b>Load: 5V Peripherals</b><br/>(Telemetry)"]:::load
 
@@ -95,7 +94,6 @@ graph LR
     click CAM "https://siyi.biz/siyi_file/A8%20mini/A8%20mini%20User%20Manual%20v1.6.pdf" "Open Siyi A8 Manual"
     click Herelink "https://docs.cubepilot.org/user-guides/herelink/herelink-overview" "Open Herelink Guide"
     click FC "https://ardupilot.org/copter/docs/common-thecubeorange-overview.html" "Open Orange Cube Overview"
-    click COMP "https://components101.com/development-boards/nvidia-jetson-nano-developer-kit" "Open Jetson Nano Specs"
     click GPS "https://docs.cubepilot.org/user-guides/here-3/here-3-manual" "Open Here3+ Manual"
     click LIDAR "https://acroname.com/sites/default/files/assets/sf45_-_lidar_datasheet_-_rev_1.pdf?srsltid=AfmBOoq0fV022RsXT6ty4rW7s-S2lTgYSgzYFJVHjju96_jtzy3MebCW" "Open SF45 LiDAR Datasheet"
     click TEL "https://files.rfdesign.com.au/Files/documents/RFD900x%20DataSheet%20V1.2.pdf" "Open RFD900x Datasheet"
