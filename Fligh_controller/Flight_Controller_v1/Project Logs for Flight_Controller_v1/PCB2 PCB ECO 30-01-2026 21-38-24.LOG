@@ -1,0 +1,292 @@
+Added Component: Designator=I1(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrite Beads and Chips"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-180806579.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-180806579.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-37129980.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-37129980.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-168152.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-168152.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-11549175.pdf?src-supplier=_legacy+Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-11549175.pdf?src-supplier=_legacy+Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-55943.pdf?src-supplier=DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-55943.pdf?src-supplier=DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-141258064.pdf?src-supplier=Ciiva"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-141258064.pdf?src-supplier=Ciiva"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-138707216.pdf?src-supplier=Ciiva"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-138707216.pdf?src-supplier=Ciiva"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-135086704.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-135086704.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-62086350.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-62086350.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-12522583.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-12522583.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-10083551.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-10083551.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-8508678.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-8508678.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "25mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "25mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "500µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "120O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM18SG121TN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ferrite, Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "10000=0.0271 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8504500000, 8504500000|8504500000|8504500000|8504500000|8504500000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "330000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C107332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=I2(KYOCERA-KNH16-DA)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrite Beads and Chips"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-180806579.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-180806579.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-37129980.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-37129980.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-168152.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-168152.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-11549175.pdf?src-supplier=_legacy+Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-11549175.pdf?src-supplier=_legacy+Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-55943.pdf?src-supplier=DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-55943.pdf?src-supplier=DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-141258064.pdf?src-supplier=Ciiva"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-141258064.pdf?src-supplier=Ciiva"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-138707216.pdf?src-supplier=Ciiva"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-138707216.pdf?src-supplier=Ciiva"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-135086704.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-135086704.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-62086350.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-62086350.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-12522583.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-12522583.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-10083551.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-10083551.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-8508678.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/BLM18SG121TN1D-Murata-datasheet-8508678.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "25mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "25mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "500µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "120O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM18SG121TN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ferrite, Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "10000=0.0271 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8504500000, 8504500000|8504500000|8504500000|8504500000|8504500000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "330000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C107332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found AMS1117
+Add Component: Footprint Not Found AMS1117
+Add Component: Footprint Not Found FP-2171790001-MFG
+Add Component: Footprint Not Found Edge Connector
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RES_10K
+Add Component: Footprint Not Found RES_SMD_0402
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found RESC1005X37N
+Added Pin To Net: NetName=NetI1_1 Pin=I1-1
+Added Pin To Net: NetName=+5V_VBUS1 Pin=I1-2
+Added Pin To Net: NetName=GND Pin=I2-1
+Added Pin To Net: NetName=GND Pin=I2-2
+Add Pin To Net: Unknown Pin: Pin J2-0
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J3-0
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J4-A1B12
+Add Pin To Net: Unknown Pin: Pin J4-A4B9
+Add Pin To Net: Unknown Pin: Pin J4-A5
+Add Pin To Net: Unknown Pin: Pin J4-A6
+Add Pin To Net: Unknown Pin: Pin J4-A7
+Add Pin To Net: Unknown Pin: Pin J4-B1A12
+Add Pin To Net: Unknown Pin: Pin J4-B4A9
+Add Pin To Net: Unknown Pin: Pin J4-B5
+Add Pin To Net: Unknown Pin: Pin J4-B6
+Add Pin To Net: Unknown Pin: Pin J4-B7
+Add Pin To Net: Unknown Pin: Pin J4-S1
+Add Pin To Net: Unknown Pin: Pin J4-S2
+Add Pin To Net: Unknown Pin: Pin J4-S3
+Add Pin To Net: Unknown Pin: Pin J4-S4
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J6-7
+Add Pin To Net: Unknown Pin: Pin J6-8
+Add Pin To Net: Unknown Pin: Pin J6-9
+Add Pin To Net: Unknown Pin: Pin J6-10
+Add Pin To Net: Unknown Pin: Pin J6-11
+Add Pin To Net: Unknown Pin: Pin J6-12
+Add Pin To Net: Unknown Pin: Pin J6-13
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R23-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R26-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Pin To Net: Unknown Pin: Pin R30-1
+Add Pin To Net: Unknown Pin: Pin R30-2
+Add Pin To Net: Unknown Pin: Pin R31-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R32-1
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Pin To Net: Unknown Pin: Pin R34-1
+Add Pin To Net: Unknown Pin: Pin R34-2
+Added Member To Class: ClassName=Flight_Controller_v1 Member=Component I1 Ferrite Beads EMI FILTER
+Added Member To Class: ClassName=Flight_Controller_v1 Member=Component I2 Ferrite Beads EMI FILTER
+Add Class Member: Failed to add class member : Component J2 LDO Output 3.3 V
+Add Class Member: Failed to add class member : Component J3 LDO Output 3.3 V
+Add Class Member: Failed to add class member : Component J4 2171790001
+Add Class Member: Failed to add class member : Component J6 Micro SD holder
+Add Class Member: Failed to add class member : Component R3 0R
+Add Class Member: Failed to add class member : Component R4 10K
+Add Class Member: Failed to add class member : Component R5 49.9K
+Add Class Member: Failed to add class member : Component R6 9.53k
+Add Class Member: Failed to add class member : Component R8 49.9K
+Add Class Member: Failed to add class member : Component R9 5K1
+Add Class Member: Failed to add class member : Component R13 5K1
+Add Class Member: Failed to add class member : Component R14 10K
+Add Class Member: Failed to add class member : Component R15 0R
+Add Class Member: Failed to add class member : Component R16 0R
+Add Class Member: Failed to add class member : Component R17 49.9K
+Add Class Member: Failed to add class member : Component R18 49.9K
+Add Class Member: Failed to add class member : Component R19 49.9K
+Add Class Member: Failed to add class member : Component R20 10K
+Add Class Member: Failed to add class member : Component R21 10K
+Add Class Member: Failed to add class member : Component R22 10K
+Add Class Member: Failed to add class member : Component R23 0R
+Add Class Member: Failed to add class member : Component R24 27R
+Add Class Member: Failed to add class member : Component R25 27R
+Add Class Member: Failed to add class member : Component R26 0R
+Add Class Member: Failed to add class member : Component R27 49.9K
+Add Class Member: Failed to add class member : Component R28 49.9K
+Add Class Member: Failed to add class member : Component R29 49.9K
+Add Class Member: Failed to add class member : Component R30 10K
+Add Class Member: Failed to add class member : Component R31 4K7
+Add Class Member: Failed to add class member : Component R32 5K1
+Add Class Member: Failed to add class member : Component R33 5K1
+Add Class Member: Failed to add class member : Component R34 10K

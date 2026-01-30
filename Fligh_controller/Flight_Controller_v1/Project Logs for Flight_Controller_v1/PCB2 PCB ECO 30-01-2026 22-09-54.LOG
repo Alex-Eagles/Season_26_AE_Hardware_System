@@ -1,0 +1,26 @@
+Added Component: Designator=R19(RES_SMD_0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F4992TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C2930109"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Added Pin To Net: NetName=SDMMC1_D2 Pin=R19-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Class Member: Failed to add class member : Component R5 49.9K
+Add Class Member: Failed to add class member : Component R17 49.9K
+Add Class Member: Failed to add class member : Component R18 49.9K
+Added Member To Class: ClassName=Flight_Controller_v1 Member=Component R19 49.9K
+Add Class Member: Failed to add class member : Component R27 49.9K
+Add Class Member: Failed to add class member : Component R28 49.9K
+Add Class Member: Failed to add class member : Component R29 49.9K

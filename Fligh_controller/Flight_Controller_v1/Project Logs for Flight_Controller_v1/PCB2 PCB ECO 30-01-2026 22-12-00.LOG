@@ -1,0 +1,24 @@
+Added Component: Designator=R27(RES_SMD_0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F4992TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C2930109"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES_SMD_0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F4992TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C2930109"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_SMD_0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0603F4992TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C2930109"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R27-1
+Added Pin To Net: NetName=SDMMC1_D0 Pin=R27-2
+Added Pin To Net: NetName=3V3 Pin=R28-1
+Added Pin To Net: NetName=SDMMC1_D1 Pin=R28-2
+Added Pin To Net: NetName=3V3 Pin=R29-1
+Added Pin To Net: NetName=NetJ6_9 Pin=R29-2
+Added Member To Class: ClassName=Flight_Controller_v1 Member=Component R27 49.9K
+Added Member To Class: ClassName=Flight_Controller_v1 Member=Component R28 49.9K
+Added Member To Class: ClassName=Flight_Controller_v1 Member=Component R29 49.9K
