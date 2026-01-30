@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KCYBKRJW
 
 [Document2]
-DocumentPath=PCB2.PcbDoc
+DocumentPath=Flight_Controller_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
